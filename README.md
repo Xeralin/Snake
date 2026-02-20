@@ -1,5 +1,5 @@
 # Snake
-**It's an extension for Firefox. You can add it [here](https://addons.mozilla.org/de/firefox/addon/snake-mod/)** <br/>
+**It's an extension for Firefox. You can add it [here](https://addons.mozilla.org/de/firefox/addon/snake-mod/)**! <br/>
 The Snake Extension includes a zoom mod, custom backgrounds, and many other improvements. <br/>
 <br/> Have fun :)
 
